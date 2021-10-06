@@ -1,7 +1,7 @@
 <div id="contenu">
 	<h2>Les Livres</h2>
 	<p>Bienvenue sur la page des livres.</p>
-    <p>SHESH</p>
+    <p>shesh</p>
 	<table id="tableBalises">
 		<thead>
 			<tr>
