@@ -2,6 +2,7 @@
 	<h2>Les Livres</h2>
 	<p>Bienvenue sur la page des livres.</p>
     <p>shesh</p>
+    <p>Hello World</p>
 	<table id="tableBalises">
 		<thead>
 			<tr>
