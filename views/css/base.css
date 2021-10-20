@@ -31,6 +31,7 @@ h1, h2 {
 	font-weight: normal; /* -> 7 */
 }
 h1 {
+	color: red;
 	font-size: 3em; /* -> 8 */
 	font-style: italic;
 }
